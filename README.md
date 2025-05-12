@@ -1,4 +1,4 @@
-# Mental Health Risk Predictor (Nepal)
+# Mental Health Risk Predictor
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Status](https://img.shields.io/badge/status-beta-yellow)
@@ -8,7 +8,7 @@
 
 The Mental Health Risk Predictor is a data-driven tool designed to estimate potential mental health risk levels in Nepal based on social determinants of health (SDOH). This application analyzes socioeconomic factors and lifestyle data to generate a personal risk assessment on a 0-10 scale, where higher scores indicate potentially greater vulnerability to mental health issues.
 
-## ✨ Key Features
+## Key Features
 
 - **Personalized Risk Assessment**: Generate an individualized mental health risk score based on your specific socioeconomic profile.
 - **Evidence-Informed Recommendations**: Receive tailored suggestions based on your risk profile and contributing factors.
@@ -16,7 +16,7 @@ The Mental Health Risk Predictor is a data-driven tool designed to estimate pote
 - **Educational Resources**: Learn about the social determinants affecting mental health in the Nepal context.
 - **Privacy-Focused**: All data processing happens locally on your device with no external data storage.
 
-## 📊 Social Determinants Analyzed
+## Social Determinants Analyzed
 
 The predictor evaluates the following factors:
 
@@ -29,7 +29,7 @@ The predictor evaluates the following factors:
 - Community support
 - Physical activity
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -103,7 +103,10 @@ Where βᵢ are the coefficients derived from our regression analysis.
 ```bash
 pytest tests/
 ```
-
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🔗 More Information
+
+For detailed information, you can check the [Whitepaper](https://github.com/vijaybartaula/nepal-mh-risk-predictor/blob/main/WHITEPAPER.md).
